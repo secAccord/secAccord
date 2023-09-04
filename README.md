@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ungapl123
+- 👋 Hi, I’m @secAccord
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++/Phyton
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript/Typescript
 
 <!---
 ungapl123/ungapl123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
